@@ -1,4 +1,4 @@
-Here's an updated `README` file for the **CriticsWorld Frontend** project:
+Here's an updated `README` file for the CriticsWorld Frontend project:
 
 ```markdown
 # CriticsWorld Frontend
@@ -13,29 +13,29 @@ You can check out the deployed version of the project here:
 ## Features
 
 ### User Features:
-- **Post Reviews:** Users can write reviews for movies they have watched.
-- **Edit Reviews:** Users can edit their previously posted reviews.
-- **Delete Reviews:** Users can delete their reviews if necessary.
-- **Profile Edit:** Users can edit their profile information.
+- Post Reviews: Users can write reviews for movies they have watched.
+- Edit Reviews: Users can edit their previously posted reviews.
+- Delete Reviews: Users can delete their reviews if necessary.
+- Profile Edit: Users can edit their profile information.
 
 ### Admin Features:
-- **Manage Movies:** Admins can add or delete movies from the database.
-- **Moderate Reviews:** Admins can delete any inappropriate reviews posted by users.
+- Manage Movies: Admins can add or delete movies from the database.
+- Moderate Reviews: Admins can delete any inappropriate reviews posted by users.
 
 ## Credentials
 
 ### User Login:
-- **Email:** `user1@gmail.com`
-- **Password:** `123456`
+- Email: `user1@gmail.com`
+- Password: `123456`
 
 ### Admin Login:
-- **Email:** `admin1@gmail.com`
-- **Password:** `admin_1`
+- Email: `admin1@gmail.com`
+- Password: `admin_1`
 
 ## Technologies Used:
-- **React:** A JavaScript library for building user interfaces.
-- **Vite:** A fast build tool that offers fast refresh and an optimized development experience.
-- **Tailwind CSS:** A utility-first CSS framework for rapid UI development.
+- React: A JavaScript library for building user interfaces.
+- Vite: A fast build tool that offers fast refresh and an optimized development experience.
+- Tailwind CSS: A utility-first CSS framework for rapid UI development.
 
 ## Installation Instructions
 
