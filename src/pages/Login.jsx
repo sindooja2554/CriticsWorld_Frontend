@@ -131,6 +131,19 @@ const Login = () => {
                 Create an account!
               </Link>
             </p>
+
+            <div className="mt-4 text-center text-white">
+              <h2 className="text-xl strobe" style={{color:"yellow"}}>For Faster Access Use Below Credentials:</h2>
+                <p>
+                <strong>User credentials:</strong> <br />
+                Email: <code>user@gmail.com</code> | Password: <code>123456</code>
+              </p>
+              <p>
+                <strong>Admin credentials:</strong>
+                <br />
+                Email: <code>admin@gmail.com</code> | Password: <code>123456</code>
+              </p>
+            </div>
           </div>
         </div>
       )}
