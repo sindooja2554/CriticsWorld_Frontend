@@ -8,7 +8,7 @@ import axios from "axios";
 
 // axios.defaults.baseURL = "https://movie-list-review-backend.onrender.com"
 axios.defaults.baseURL = window.location.protocol.includes("s")
-  ? "https://criticsworld.onrender.com"
+  ? "https://critics-world-backend.vercel.app/"
   : "http://localhost:8081";
 axios.defaults.headers.common["token"] = localStorage.getItem("token");
 
