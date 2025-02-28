@@ -16,7 +16,7 @@ function ReviewComponent({
           alt=""
         />
         <div className="font-medium dark:text-white">
-          <p className="font-bold">
+          <p className="font-bold text-white">
             {item.FirstName} {item.LastName}{" "}
             <time
               datetime={new Date(user.Timestamp).toDateString()}
